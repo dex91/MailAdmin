@@ -1,0 +1,37 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4DDE08AA-0AFD-411F-8E75-91F55ECC8283}") = "MailAdmin.API", "MailAdmin.API\MailAdmin.API.csproj", "{59BAC2AC-BA15-49AA-9126-E6C9CFE8F4D0}"
+EndProject
+Project("{4DDE08AA-0AFD-411F-8E75-91F55ECC8283}") = "MailAdmin", "MailAdmin\MailAdmin.csproj", "{D2752E2E-D331-4E80-B83E-F9424EC05D69}"
+EndProject
+Project("{4DDE08AA-0AFD-411F-8E75-91F55ECC8283}") = "MailAdmin.Lib", "MailAdmin.Lib\MailAdmin.Lib.csproj", "{0A1ACC60-BDBF-4A50-A5BD-7304EAB6894F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BAC2AC-BA15-49AA-9126-E6C9CFE8F4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BAC2AC-BA15-49AA-9126-E6C9CFE8F4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BAC2AC-BA15-49AA-9126-E6C9CFE8F4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BAC2AC-BA15-49AA-9126-E6C9CFE8F4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2752E2E-D331-4E80-B83E-F9424EC05D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2752E2E-D331-4E80-B83E-F9424EC05D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2752E2E-D331-4E80-B83E-F9424EC05D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2752E2E-D331-4E80-B83E-F9424EC05D69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1ACC60-BDBF-4A50-A5BD-7304EAB6894F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1ACC60-BDBF-4A50-A5BD-7304EAB6894F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1ACC60-BDBF-4A50-A5BD-7304EAB6894F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1ACC60-BDBF-4A50-A5BD-7304EAB6894F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {183E9CD6-7DF2-4BE7-BE3C-36DBBEB4E42C}
+	EndGlobalSection
+EndGlobal
